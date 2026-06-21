@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+requests
+uagents
+httpx
+redis
+deepgram-sdk
+browserbase
+stagehand
+geopy
+scikit-learn
+numpy
